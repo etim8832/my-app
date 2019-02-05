@@ -1,0 +1,41 @@
+.login{
+  background:  white;
+  width: 500px;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:0 center;
+
+}
+
+.border_redius{
+  border-radius: 1rem;
+}
+
+.logo {
+  width: 300px;
+  animation: App-logo-spin infinite 20s linear;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white; */
+}
+
+.onfocus{
+  border: 2px solid yellow !important; 
+}
+
+.border_input{
+  border:2px solid rgba(0,0,0,.05);
+}
+
+.text_left{
+  float: left;
+}
+
+.text_right{
+  float:right;
+}
